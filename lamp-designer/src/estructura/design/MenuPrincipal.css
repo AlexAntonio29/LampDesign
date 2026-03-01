@@ -1,0 +1,36 @@
+.MenuPrincipal{
+flex-wrap: wrap;
+
+background: #FF8C42;
+
+height: calc(10px + 20vmin);
+
+
+
+
+  top: 0;
+  left: 0;
+  width: 100%;
+ 
+  margin-bottom: 20px;
+ 
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+
+ 
+}
+
+@media screen and (max-aspect-ratio: 1/1){
+.MenuPrincipal{
+ height: 80px;
+  
+ 
+}
+
+}
+

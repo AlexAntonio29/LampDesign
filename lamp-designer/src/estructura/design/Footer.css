@@ -1,0 +1,18 @@
+.Footer{
+
+background: #FF8C42;
+height: 15%;
+width: 100%;
+
+
+ 
+ 
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  z-index: 1000;
+
+}
